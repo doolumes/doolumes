@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dion Olumese</h1>
 <h3 align="center">A passionate tech enthusiast who enjoys creating value in people's lives</h3>
-<img align="right" alt="Stocks" width= "400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzcwYjkzMjc1MmFlNjYxOWU1ZTlkN2I5OTVkMGY4YTA0YWFkOWQ5NSZjdD1n/JtBZm3Getg3dqxK0zP/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzcwYjkzMjc1MmFlNjYxOWU1ZTlkN2I5OTVkMGY4YTA0YWFkOWQ5NSZjdD1n/JtBZm3Getg3dqxK0zP/giphy.gif">
 - 🔭 I’m currently working on **Data Science & Analytics**
 
 - 🌱 I’m currently learning **Python & Investment Banking**
