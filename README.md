@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQHjpGwKZ4lwYw/profile-displaybackgroundimage-shrink_350_1400/0/1652655859093?e=1685577600&v=beta&t=tAl3-G2liZoCsfddWB0rMuy6t8kGjxBzyESphwwQO9U)](https://doolumes.github.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHTwyiJifrgWA/profile-displaybackgroundimage-shrink_350_1400/0/1516506627091?e=1685577600&v=beta&t=guEWT3k6unpd4m_N4NG5dMzDS69j88y-rUsymFLnb_w)](https://doolumes.github.io)
 <h1 align="center">Hi 👋, I'm Dion Olumese</h1>
 <h3 align="center">A passionate tech enthusiast who enjoys creating value in people's lives</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
