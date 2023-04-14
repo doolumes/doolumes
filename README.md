@@ -3,11 +3,11 @@
 <h3 align="center">A passionate tech enthusiast who enjoys creating value in people's lives</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’m currently working on **Data Science & Analytics**
+- 🔭 I’m currently working on **Software Engineering & Design**
 
-- 🌱 I’m currently learning **Python & Investment Banking**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Quantitative Research & Analysis Projects**
+- 👯 I’m looking to collaborate on **Research Projects**
 
 - 👨‍💻 All of my projects are available at [http://doolumes.github.io](http://doolumes.github.io)
 
