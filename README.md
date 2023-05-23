@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **doolumes@cougarnet.uh.edu**
 
-- ⚡ Fun fact **I'm a 200 LP Graves OTP and former COD-Mobile Pro**
+- ⚡ Fun fact **I'm a 200 LP Graves OTP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
